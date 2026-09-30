@@ -1,8 +1,8 @@
-# RailsGoat
+# RailsGoated
 
-RailsGoat is a deliberately vulnerable web application built on Ruby on Rails. It demonstrates real-world security vulnerabilities from the OWASP Top 10 and serves as a hands-on training platform for developers and security professionals.
+RailsGoated is a deliberately vulnerable web application built on Ruby on Rails. It demonstrates real-world security vulnerabilities from the OWASP Top 10 and serves as a hands-on training platform for developers and security professionals.
 
-## What is RailsGoat?
+## What is RailsGoated?
 
 RailsGoat is an intentionally insecure Rails application designed to teach web application security. By exploring and exploiting its vulnerabilities, you'll learn:
 
